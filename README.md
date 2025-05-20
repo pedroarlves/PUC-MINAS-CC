@@ -39,7 +39,7 @@
 * [Arquitetura de computadores 3 (A.C.3)](#)
 * [Engenharia de software 2 (E.S.2)](#)
 * [Libras](#)
-* [Projeto e analise de algorítimos (P.A.A)](#)
+* [Projeto e analise de algorítimos (P.A.A)](https://github.com/pedroarlves/PAA)
 * [Redes de computadores 1 (REDES 1)](#)
 * [Sistemas operacionais (S.O)](#)
 * [Trabalho interdisciplinar 5: Sistemas computacionais (T.I.5)](#)
