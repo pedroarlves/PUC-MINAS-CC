@@ -72,4 +72,4 @@
 
 ## Projetos
 * [Conversor de bases numéricas (A.C.1)](https://github.com/pedroarlves/ConversorDeBasesNumericas.git)
-* [AirHacking (T.1.5)](https://github.com/orgs/ICEI-PUC-Minas-CC-TI/teams/g17-airhacking)
+* [AirHacking (T.1.5)]([https://github.com/orgs/ICEI-PUC-Minas-CC-TI/teams/g17-airhacking](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti5-2025-1-g17-airhacking))
