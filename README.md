@@ -47,7 +47,7 @@
 ## Período 6
 * [Computação distribuída](#)
 * [Computação paraléla](#)
-* [Fundamentos teóricos da computação (F.T.C)](#)
+* [Fundamentos teóricos da computação (F.T.C)](https://github.com/pedroarlves/Fundamentos-Teoricos-Da-Computacao.git)
 * [Geometria analítica e álgebra linear (G.A.A.L)](#)
 * [Processamento e análise de imagens (P.A.I)](#)
 * [Trabalho interdisciplinar 6: Sistemas paralelos e distribuídos (T.I.6)](#)
